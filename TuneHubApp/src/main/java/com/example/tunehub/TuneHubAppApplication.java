@@ -9,5 +9,5 @@ public class TuneHubAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TuneHubAppApplication.class, args);
 	}
-
+	
 }
